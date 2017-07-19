@@ -1,7 +1,8 @@
 
 
 # 瀚思安信
-Job Description [http://hansight.com/hr.html](http://hansight.com/hr.html)  
+Job Description  
+[http://hansight.com/hr.html](http://hansight.com/hr.html)  
 ## 职责
 * 负责公司Linux环境下JAVA相关软件项目的开发工作
 * 严格执行软件项目开发规范，各阶段按规定输出对应的文档及代码
