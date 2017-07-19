@@ -1,14 +1,14 @@
 
 
 # 瀚思安信
-## Job Description
-[http://hansight.com/hr.html](http://hansight.com/hr.html)
-### 职责
+Job Description [http://hansight.com/hr.html](http://hansight.com/hr.html)  
+## 职责
 * 负责公司Linux环境下JAVA相关软件项目的开发工作
 * 严格执行软件项目开发规范，各阶段按规定输出对应的文档及代码
 * 严格执行公司质量管理方针
 * 在项目的调研、开发及验收过程中，及时与用户沟通
-### 需求
+
+## 需求
 * 三年以上J2SE开发经验，可以灵活的使用Java进行多线程编程，并熟练使用Spring MVC, Spring AOP, Hibernate
 * 掌握RESTful的相关框架(Jersey 或 Spring）
 * 熟悉Flume, Solr API及SolrCloud，了解Hadoop生态系统（HDFS, Zookeeper），懂得分布系统的基本概念
