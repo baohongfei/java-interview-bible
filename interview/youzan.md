@@ -35,3 +35,4 @@ redis是怎么实现对象有效时间的
 两个栈实现一个队列  
 数据库的联合索引  
 Zookeeper 如果保证一致性  
+MYISAM、INNODB 的区别  
