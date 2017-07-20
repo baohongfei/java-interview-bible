@@ -26,19 +26,3 @@ Job Description
 * 对Redis、MongoDB、zookeeper或分布式数据库有较深的理解和经验;
 
 ## 一面
-时间：20170714 上午  
-电话面试  
-Redis缓存的脏数据问题  
-https://fdx321.github.io/2016/09/09/%E7%BC%93%E5%AD%98%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/  
-分布式锁  
-redis是怎么实现对象有效时间的  
-观察者模式react模式  
-强软弱虚  
-
-## 二面
-时间： 20170717 上午  
-视频面试  
-两个栈实现一个队列  
-数据库的联合索引  
-Zookeeper 如果保证一致性  
-MYISAM、INNODB 的区别  
