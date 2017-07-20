@@ -16,7 +16,7 @@ Redis是REmote DIctionary Server的缩写
 * [Redis as an LRU cache](https://redis.io/topics/lru-cache) 使用的是近似LRU算法，选5个删一个。
 * [Redis transactions](https://redis.io/topics/transactions) 是我，MULTI命令开始，EXEC 提交。
 * [Mass insertion of data](https://redis.io/topics/mass-insert) 客户端批量插入
-* []()
-* []()
-* []()
-* []()
+* [Partitioning](https://redis.io/topics/partitioning 分区 RedisCluster、Proxy、客户端一致性hash
+* [Distributed locks](https://redis.io/topics/distlock) 分布式锁
+* [Redis keyspace notifications](https://redis.io/topics/notifications)
+* [Creating secondary indexes with Redis]()
