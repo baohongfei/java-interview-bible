@@ -9,4 +9,5 @@
    * [瀚思安信](interview/hansight.md)
    * [苏宁体育](interview/suning.md)
    * [有赞](interview/youzan.md)
+   * [阿里巴巴](interview/alibaba.md)
 * [技术站点](tech-site.md)
