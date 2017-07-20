@@ -11,4 +11,6 @@
    * [有赞](interview/youzan.md)
    * [阿里巴巴](interview/alibaba.md)
    * [网易](interview/netease.md)
+   * [千米](qianmi.md)
+   * [有货](youhuo.md)
 * [技术站点](tech-site.md)
