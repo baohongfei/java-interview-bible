@@ -5,6 +5,8 @@
    * [HashMap](collections/hashmap.md)
 * [JVM](jvm/index.md)
    * [垃圾回收机制](jvm/jc.md)
+* [中间件](middleware/index.md)
+   [Redis](middleware/redis.md)
 * [面试经历](interview/index.md)
    * [瀚思安信](interview/hansight.md)
    * [苏宁体育](interview/suning.md)
