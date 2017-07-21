@@ -1,9 +1,10 @@
 Redis是REmote DIctionary Server的缩写  
 
 官方文档：  
-[https://redis.io/documentation](https://redis.io/documentation)
+[https://redis.io/documentation](https://redis.io/documentation)  
 中文翻译
-[http://www.redis.cn/documentation.html](http://www.redis.cn/documentation.html)
+[http://www.redis.cn/documentation.html](http://www.redis.cn/documentation.html)  
+[http://redisdoc.com/](http://redisdoc.com/)  
 
 # Programming with Redis
 * [The full list of commands](https://redis.io/commands) Redisd 所有命令
