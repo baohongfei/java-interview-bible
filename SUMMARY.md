@@ -3,6 +3,7 @@
 * [关于本书](README.md)
 * [Java 集合](collections/index.md)
    * [HashMap](collections/hashmap.md)
+   * [ConcurrentHashMap](collections/concurrenthashmap.md)
 * [JVM](jvm/index.md)
    * [垃圾回收机制](jvm/jc.md)
 * [中间件](middleware/index.md)
