@@ -18,6 +18,7 @@ InnoDB的一级索引、二级索引
 MySQL 里的数据类型  
 Data 类型和 Timestamp 类型的区别  
 数据库的表设计  
+InnoDB 行锁 表锁
 
 HTTP  
 消息头有哪些？  
