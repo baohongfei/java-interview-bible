@@ -9,6 +9,8 @@ Reactor模式+事件驱动+异步非阻塞IO+多线程模型
 [Netty线程模型](http://www.infoq.com/cn/articles/netty-threading-model)  
 [深入研究Netty框架之ByteBuf功能原理及源码分析](https://my.oschina.net/7001/blog/742236)  
 
+零拷贝、tcpNoDelay  
+
 MySQL  
 索引失效的场景  
 SQL 优化和慢查  
