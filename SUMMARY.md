@@ -18,6 +18,7 @@
    * [苏宁体育](interview/suning.md)
    * [有赞](interview/youzan.md)
    * [阿里巴巴](interview/alibaba.md)
+   * [VIVO](interview/vivo.md)   
    * [网易](interview/netease.md)
    * [千米](qianmi.md)
    * [有货](youhuo.md)
