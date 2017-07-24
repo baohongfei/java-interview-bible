@@ -37,9 +37,9 @@ not in ,not exist !=.
 varchar等值比较没有写单引号  
 [8.2.1.1 WHERE Clause Optimization](https://dev.mysql.com/doc/refman/5.7/en/where-optimization.html)  
 
-InnoDB的一级索引、二级索引  
+InnoDB的聚簇索引与第二索引  
 MySQL 里的数据类型  
-Data 类型和 Timestamp 类型的区别  
+DATE、DATETIME、TIMESTAMP 类型的区别  
 数据库的表设计  
 InnoDB 行锁 表锁
 
