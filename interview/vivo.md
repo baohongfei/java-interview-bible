@@ -2,7 +2,7 @@
 一面  
 时间 20170722 周六下午  
 
-Netty  
+# Netty  
 简单介绍一下Netty  
 Reactor模式+事件驱动+异步非阻塞IO+多线程模型  
 [Netty线程模型](http://www.infoq.com/cn/articles/netty-threading-model)  
@@ -11,8 +11,8 @@ ByteBuf 动态扩展通常情况下，当对JDK ByteBuffer进行put操作时，�
 零拷贝  
 ChannelOption的TCP_NODELAY属性设置  
 
-MySQL  
-索引失效的场景  
+# MySQL  
+## 索引失效的场景  
 查询条件包含or  
 组合索引，不是使用第一列索引，索引失效 索引的最左匹配特性。  
 like 以%开头  
@@ -25,7 +25,7 @@ not in ,not exist !=.
 如果某个数据列里包含着许多重复的值，就算为它建立了索引也不会有很好的效果  
 索引不存储null值  
 
-SQL 优化和慢查  
+## SQL 优化和慢查  
 [MySQL索引原理及慢查询优化](https://tech.meituan.com/mysql-index.html)  
 建索引的几大原则  
 1. 最左前缀匹配原则，非常重要的原则，mysql会一直向右匹配直到遇到范围查询(>、<、between、like)就停止匹配，比如a = 1 and b = 2 and c > 3 and d = 4 如果建立(a,b,c,d)顺序的索引，d是用不到索引的，如果建立(a,b,d,c)的索引则都可以用到，a,b,d的顺序可以任意调整。
@@ -43,20 +43,20 @@ Data 类型和 Timestamp 类型的区别
 数据库的表设计  
 InnoDB 行锁 表锁
 
-HTTP  
+# HTTP  
 消息头有哪些？  
 Referer头的作用。
 
-HTTPS  
+# HTTPS  
 建立链接的过程  
 
-Spring  
+# Spring  
 Spring 的最基础配置包括哪些  
 SpringMVC 对一条请求的处理流程  
 
-
-AQS 的实现原理  
-CAS 的实现  
+# 并发
+## AQS 的实现原理  
+## CAS 的实现  
 [JAVA CAS原理深度分析](http://zl198751.iteye.com/blog/1848575)
 [Java CAS 理解](https://mritd.me/2017/02/06/java-cas/)
 ABA问题  
