@@ -8,6 +8,7 @@
    * [垃圾回收机制](jvm/jc.md)
    * [监控工具](jvm/monitor.md)
 * [并发](concurrency/index.md)
+   * [AbstractQueuedSynchronizer](concurrency/aqs.md)
 * [NIO](nio/index.md)
 * [Spring](spring/index.md)
 * [中间件](middleware/index.md)
