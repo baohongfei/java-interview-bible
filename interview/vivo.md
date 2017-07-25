@@ -48,6 +48,8 @@ DATE、DATETIME、TIMESTAMP 类型的区别
 数据库的表设计  
 行锁 表锁  
 [Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb-lock.html)
+update 操作是锁表还是锁行
+
 
 # HTTP  
 消息头有哪些？  
