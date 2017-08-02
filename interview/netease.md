@@ -26,3 +26,12 @@ Job Description
 * 对Redis、MongoDB、zookeeper或分布式数据库有较深的理解和经验;
 
 ## 一面
+20170802  
+设计模式  
+设计原则  
+exception 的继承结构  
+classnotdefine classnotfound  
+服务器的部署 遇到的 linux 机器问题  
+netstat -an an 的含义  
+数据库的范式  
+ 

@@ -35,3 +35,11 @@ CurrentHashMap 的内部实现
 ## 三面
 20170731
 玉坤  
+
+## 四面
+20170801
+平台治理  
+观察一台 linux 机器是否满负荷  
+cpu 内存 IO  
+top 命令的 blance
+mybatis 两级缓存
