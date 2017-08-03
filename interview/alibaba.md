@@ -40,8 +40,8 @@ CurrentHashMap 的内部实现
 20170802  
 平台治理  
 观察一台 linux 机器是否满负荷  
-cpu 内存 IO  
-netstat
+cpu 内存 IO iostat iowait  
+netstat a all n ip t tcp  
 top 命令的 blance  
 mybatis 两级缓存  
 线程池大小的动态变化过程 有界队列  无界队列  

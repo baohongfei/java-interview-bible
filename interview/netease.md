@@ -28,10 +28,31 @@ Job Description
 ## 一面
 20170802  
 设计模式  
+创建类  工厂模式 单例模式  
+结构型模式 适配器模式 代理模式  
+行为型模式 策略模式 模板方法模式 观察者模式  
 设计原则  
+s 单一职责原则  
+o 开放封闭原则  
+l 里氏替换原则  
+l 迪米特原则 Least Knowledge Principle，LKP  
+i 接口隔离原原则  
+d 依赖倒置原则
+
 exception 的继承结构  
 classnotdefine classnotfound  
 服务器的部署 遇到的 linux 机器问题  
 netstat -an an 的含义  
 数据库的范式  
 有没有阅读过 Spring 的源码  
+
+## byx
+最满意的一个项目  
+后端性能优化的点  
+使用哪些中间件  
+docker  
+微服务  
+jvm性能调优 参数  
+看了哪些书  
+MQ  
+MongoDB  
