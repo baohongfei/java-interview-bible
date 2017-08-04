@@ -45,3 +45,10 @@ netstat a all n ip t tcp
 top 命令的 blance  
 mybatis 两级缓存  
 线程池大小的动态变化过程 有界队列  无界队列  
+
+## 五面
+20170804  
+http 的长连接  
+响应报文的trankt  
+protobuf 的序列化细节  
+zk 的假死  
