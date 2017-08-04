@@ -49,6 +49,7 @@ mybatis 两级缓存
 ## 五面
 20170804  
 http 的长连接  
+https  
 响应报文的trankt  
 protobuf 的序列化细节  
 zk 的假死  
