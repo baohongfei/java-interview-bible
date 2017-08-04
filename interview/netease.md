@@ -40,7 +40,7 @@ i 接口隔离原原则
 d 依赖倒置原则
 
 exception 的继承结构  
-classnotdefine classnotfound  
+ClassNotFoundException和NoClassDefFoundError的区别  
 服务器的部署 遇到的 linux 机器问题  
 netstat -an an 的含义  
 数据库的范式  
@@ -56,3 +56,8 @@ jvm性能调优 参数
 看了哪些书  
 MQ  
 MongoDB  
+
+## 二面
+Dubbo默认使用的是Hessian序列化  
+任务超时  
+jmap jvisualvm  
