@@ -49,8 +49,13 @@ mybatis 两级缓存
 ## 五面
 20170804  
 http 的长连接  
+HTTP的长连接和短连接本质上是TCP长连接和短连接。  
+Connection:keep-alive  
 https  
-响应报文的trankt  
+响应报文的 trankt  
 protobuf 的序列化细节  
 zk 的假死  
 最近在研究什么技术  
+
+## 六面
+20170807
